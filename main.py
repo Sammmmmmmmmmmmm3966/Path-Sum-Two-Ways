@@ -10,6 +10,17 @@ class Shortest_Path():
         self.matrix = pd.read_table('0081_matrix.txt' , header = None)
         self.a_value = 0 #will use to count value of path
     
+    def row_iteration(self):
+        pass
+
+    def column_iteration(self):
+        pass
+
+    def diagonal_iteration(self): 
+        pass
+
+    def sort_path(self):
+        pass         
 
 
 

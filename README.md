@@ -15,3 +15,7 @@ Problem 81
 #basically the circle will take travel in a directon(following a priority list of orders ), as it moves it replaces the matrix with a circle, and the previous circle with a +, and then immeditatley importing the number the circle represents into the dataset, rinse and repeat.
 
 #priority direction left, down, right, up.
+# because of the problem isntrucious we can only move right and down
+
+
+Second idea is that we make a program that looks at every line adds up values on diffrent paths
